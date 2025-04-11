@@ -15,7 +15,7 @@ Digitalizar o processo de pedidos de uma hamburgueria local, permitindo que os c
 - 🛠️ Desenvolvimento
 - 🧪 Testes
 - 🚀 Entrega e Deploy
-- ✅ Finalização e Lições Aprendidas
+- ✅ Finalização 
 
 ---
 
